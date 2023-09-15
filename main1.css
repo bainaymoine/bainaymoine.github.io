@@ -8,6 +8,7 @@
 }
 .header{
     padding: 10px 135px;
+	width:100%;
 	background-color: white;
 	position: fixed;
 	z-index: 1;
